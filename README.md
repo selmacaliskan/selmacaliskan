@@ -13,6 +13,6 @@ E-posta: [selma.caliskan888@gmail.com]
 
 Hello, I'm Selma Caliskan. I'm a Software Engineering student 🎓
 
-#I'm improving myself in the C programming language 🌎
+* I'm improving myself in the C programming language 🌎
 
-#I'm also in the open source community ✋
+* I'm also in the open source community ✋
