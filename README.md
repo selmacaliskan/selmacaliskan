@@ -5,7 +5,7 @@ Merhaba, ben [Selma Çalışkan].Yazılım Mühendisliği öğrencisiyim 🎓
 
 LinkedIn: [https://www.linkedin.com/in/selma-%C3%A7al%C4%B1%C5%9Fkan-318482342/]
 
-E-posta: [selma.caliskan888@gmail.com]
+
 
 [![GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=selmacaliskan&show_icons=true)]
 
