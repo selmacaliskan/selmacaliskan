@@ -1,4 +1,4 @@
-Merhaba, ben [Selma Çalışkan].Yazılım Mühendisliği öğrencisiyim 🎓
+Merhaba, ben Selma Çalışkan.Yazılım Mühendisliği öğrencisiyim 🎓
 
 * C programlama dilinde kendimi geliştiriyorum 🌎
 * Açık kaynak topluluğunda ben de varım ✋
