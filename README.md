@@ -3,7 +3,7 @@ Merhaba, ben [Selma Çalışkan].Yazılım Mühendisliği öğrencisiyim 🎓
 * C programlama dilinde kendimi geliştiriyorum 🌎
 * Açık kaynak topluluğunda ben de varım ✋
 
-LinkedIn: [https://www.linkedin.com/in/selma-%C3%A7al%C4%B1%C5%9Fkan-318482342/]
+LinkedIn:[www.linkedin.com/in/selma-caliskan-318482342]
 
 
 
