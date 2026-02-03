@@ -5,9 +5,6 @@ Merhaba, ben [Selma Çalışkan].Yazılım Mühendisliği öğrencisiyim 🎓
 
 LinkedIn:[www.linkedin.com/in/selma-caliskan-318482342]
 
-
-[![GitHub istatistikleri]https://github-readme-stats.vercel.app/api?username=selmacaliskan]
-
 (https://github.com/selmacaliskan)
 
 Hello, I'm Selma Caliskan. I'm a Software Engineering student 🎓
